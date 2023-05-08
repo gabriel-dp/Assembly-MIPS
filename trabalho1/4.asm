@@ -1,5 +1,5 @@
 .data
-	message1: .asciiz "Insira um inteiro positivo: "
+	message1: .asciiz "Insert a positive integer number: "
 	message2: .asciiz "Fibbonaci = "
 	
 .text

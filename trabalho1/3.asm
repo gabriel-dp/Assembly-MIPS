@@ -1,6 +1,6 @@
 .data 
 	message1: .asciiz "Insert an positive integer number: "
-	message2: .asciiz "The factorial is = "
+	message2: .asciiz "Factorial = "
 	
 .text
 	# Print user message
